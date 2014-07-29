@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Hong Kong Paperclip
+title: Paperclip HK
+categories : [Hong Kong]
+permalink : /hong-kong/paperclip-hk
 ---
 
 <b>Paperclip HK</b>
